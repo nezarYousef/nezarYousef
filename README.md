@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nizar%20Y.%20Alqerem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%2F%20AI%20Engineer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nizar%20Y.%20Alqerem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%2F%20AI%20Engineer%20%7C%20Computer%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Deep+Learning+%7C+PyTorch+%7C+Scikit-learn;From+CIFAR-10+to+real-world+AI+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Deep+Learning+%7C+PyTorch+%7C+Scikit-learn;Computer+Engineer+%7C+AI+Enthusiast;Always+building%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 ```python
 nizar = {
     "name"       : "Nizar Y. Alqerem",
-    "role"       : "ML / AI Engineer & CS Student",
+    "role"       : "ML / AI Engineer & Computer Engineer",
     "focus"      : ["Deep Learning", "Computer Vision", "NLP", "API Development"],
     "stack"      : ["Python", "PyTorch", "FastAPI", "Scikit-learn", "LightGBM"],
     "currently"  : "Building AI-powered systems and classification models",
