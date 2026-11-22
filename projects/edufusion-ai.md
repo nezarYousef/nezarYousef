@@ -3,7 +3,7 @@
 # EduFusion AI
 ### An integrated AI-assisted learning platform
 
-**Co-founder · Product & Software Engineering · Applied AI**
+**Software Engineering · Applied AI · Product Development**
 
 [← Back to GitHub profile](../README.md) · [Explore public EduPredict code](https://github.com/nezarYousef/EduPredict)
 
@@ -33,7 +33,7 @@ These are product areas with differing implementation and readiness levels, not 
 
 ## My involvement
 
-As a **co-founder**, my work spans coordinating product development, contributing to frontend engineering, and integrating AI-assisted workflows into a usable platform. The project has also involved designing how independent learning services fit together in one student experience.
+My work on EduFusion AI spans coordinating product development, contributing to frontend engineering, and integrating AI-assisted workflows into a usable platform. The project has also involved designing how independent learning services fit together in one student experience.
 
 ## Engineering themes
 
