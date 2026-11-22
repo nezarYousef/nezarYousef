@@ -18,7 +18,20 @@ I enjoy taking ideas from machine-learning experiments to usable applications: d
 - 🔬 **Exploring:** ML-powered prediction, multimodal interfaces, and human-centered AI
 - 🤝 **Interested in:** Research collaborations and software projects with measurable real-world value
 
-## Selected projects
+## Featured work
+
+I build software end-to-end, from product interfaces and backend services to applied AI. Some selected projects are open source; others are documented through public, code-free portfolio pages.
+
+### Product case studies — private source code
+
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **EduFusion AI** · Co-founder | Brings academic prediction, lecture study, AI assistance and practice tools into a connected learning experience. | [Project case study](projects/edufusion-ai.md) |
+| **AI Interview Simulator** | Explores adaptive interviews, conversational voice interaction and feedback grounded in answer evidence. | [Project case study](projects/ai-interview-simulator.md) |
+
+> These pages describe the projects without sharing private source code. The implementation repositories remain private.
+
+### Public engineering projects — inspect the code
 
 | Project | What it does | Stack / focus |
 | :--- | :--- | :--- |
@@ -27,15 +40,7 @@ I enjoy taking ideas from machine-learning experiments to usable applications: d
 | [**AidSign**](https://github.com/nezarYousef/aidsign) | Explores emergency-oriented communication through a reviewed ASL phrasebook and a limited technical recognition demo. *Not a certified interpreter or emergency service.* | Accessibility · Prototype development |
 | [**Visual Habit Lab**](https://github.com/nezarYousef/Visual-Habit-Lab) | A gamified habit tracker where visual worlds respond to habit consistency. | React Native · Expo · TypeScript |
 
-### Products and ongoing work
-
-**EduFusion AI — Co-Founder**  
-An AI-powered educational platform exploring academic-risk prediction, lecture transcription, and learning support. The main product codebase is currently private.
-
-**AI Interview Simulator — Personal project**  
-An adaptive interview platform built around CV/job-description analysis, follow-up questions, and evidence-based evaluation. Its repository is currently private.
-
-> I feature public repositories above so visitors can actually inspect the code. For private projects, I'm happy to discuss my role, architecture, and technical decisions.
+📁 [**Browse all selected projects and case studies**](projects/README.md)
 
 ## Technologies I work with
 
