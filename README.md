@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nizar%20Y.%20Alqerem&fontSize=42&fontColor=fff&fontAlignY=34&desc=Computer%20Engineer%20%7C%20AI%20%26%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Nizar Y. Alqerem" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nizar%20Y.%20Alqerem&fontSize=42&fontColor=fff&fontAlignY=34&desc=Software%20Engineer%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Nizar Y. Alqerem" />
 
   **Building practical AI systems and software for education, accessibility, and social impact.**
 
@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm **Nizar**, a **Computer Engineering graduate from the Islamic University of Gaza** and a **co-founder of EduFusion AI**.
+I'm **Nizar**, a **Software Engineer & AI Developer**, a **Computer Engineering graduate from the Islamic University of Gaza**, and a **co-founder of EduFusion AI**.
 
 I enjoy taking ideas from machine-learning experiments to usable applications: designing APIs, building interfaces, connecting services, and making systems easier to understand and maintain. My interests span **applied AI, computer vision, backend engineering, and full-stack product development**.
 
