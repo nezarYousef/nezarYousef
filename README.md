@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=740&height=50&lines=Building+intelligent+%26+useful+software;From+full-stack+engineering+to+applied+AI;Turning+ideas+into+real-world+products" alt="Typing introduction" />
 </a>
 
-**Computer Engineering graduate · Co-founder of EduFusion AI · Product-minded developer**
+**Computer Engineering graduate · Full-stack & Applied AI · Product-minded developer**
 
 <a href="https://www.linkedin.com/in/nizar-alqerem-33829a3a1/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Nizar**, a **Software Engineer & AI Developer** with a B.Sc. in **Computer Engineering from the Islamic University of Gaza**. I'm also a **co-founder of EduFusion AI**, an educational technology initiative.
+Hi! I'm **Nizar**, a **Software Engineer & AI Developer** with a B.Sc. in **Computer Engineering from the Islamic University of Gaza**. I work on projects such as **EduFusion AI**, an educational technology initiative.
 
 I work at the intersection of **full-stack development and applied AI**. I enjoy building interfaces people want to use, designing backend services that work reliably, and turning machine-learning ideas into practical applications.
 
@@ -51,7 +51,7 @@ A selection of the systems I've worked on. **Public case studies** showcase prod
 
 | Project | Overview | Explore |
 | :--- | :--- | :--- |
-| **🎓 EduFusion AI** · *Co-founder* | An AI-assisted education platform bringing together academic risk prediction, lecture learning, AI support, and practice workflows. | **[View case study](projects/edufusion-ai.md)** |
+| **🎓 EduFusion AI** | An AI-assisted education platform bringing together academic risk prediction, lecture learning, AI support, and practice workflows. | **[View case study](projects/edufusion-ai.md)** |
 | **🎙️ AI Interview Simulator** | An in-development adaptive interview platform exploring voice interaction, contextual follow-up questions, and evidence-based feedback. | **[View case study](projects/ai-interview-simulator.md)** |
 
 <sub>These are public project overviews — not mirrors of the private repositories. Private source code, credentials, and user data stay private.</sub>
