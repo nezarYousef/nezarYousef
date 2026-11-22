@@ -1,115 +1,65 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nizar%20Y.%20Alqerem&fontSize=42&fontColor=fff&fontAlignY=34&desc=Computer%20Engineer%20%7C%20AI%20%26%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Nizar Y. Alqerem" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nizar%20Y.%20Alqerem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%2F%20AI%20Engineer%20%7C%20Computer%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  **Building practical AI systems and software for education, accessibility, and social impact.**
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizar-alqerem-33829a3a1/)
+  [![Email](https://img.shields.io/badge/Email-Get_in_touch-555?style=flat-square&logo=gmail&logoColor=white)](mailto:nizaryousef01@gmail.com)
 </div>
+
+## About me
+
+I'm **Nizar**, a **Computer Engineering graduate from the Islamic University of Gaza** and a **co-founder of EduFusion AI**.
+
+I enjoy taking ideas from machine-learning experiments to usable applications: designing APIs, building interfaces, connecting services, and making systems easier to understand and maintain. My interests span **applied AI, computer vision, backend engineering, and full-stack product development**.
+
+- 🎓 **Background:** B.Sc. in Computer Engineering
+- 🚀 **Building:** AI-assisted educational experiences through **EduFusion AI**
+- 🔬 **Exploring:** ML-powered prediction, multimodal interfaces, and human-centered AI
+- 🤝 **Interested in:** Research collaborations and software projects with measurable real-world value
+
+## Selected projects
+
+| Project | What it does | Stack / focus |
+| :--- | :--- | :--- |
+| [**EduPredict**](https://github.com/nezarYousef/EduPredict) | Predicts academic risk using student evidence, with an API for inference and scenarios. | Python · FastAPI · LightGBM · PostgreSQL |
+| [**CareTrack**](https://github.com/nezarYousef/emergency-orphan-family-beneficiary-management-system) | Manages humanitarian family cases, beneficiaries, aid distributions, and audit trails. | Laravel · PHP · PostgreSQL |
+| [**AidSign**](https://github.com/nezarYousef/aidsign) | Explores emergency-oriented communication through a reviewed ASL phrasebook and a limited technical recognition demo. *Not a certified interpreter or emergency service.* | Accessibility · Prototype development |
+| [**Visual Habit Lab**](https://github.com/nezarYousef/Visual-Habit-Lab) | A gamified habit tracker where visual worlds respond to habit consistency. | React Native · Expo · TypeScript |
+
+### Products and ongoing work
+
+**EduFusion AI — Co-Founder**  
+An AI-powered educational platform exploring academic-risk prediction, lecture transcription, and learning support. The main product codebase is currently private.
+
+**AI Interview Simulator — Personal project**  
+An adaptive interview platform built around CV/job-description analysis, follow-up questions, and evidence-based evaluation. Its repository is currently private.
+
+> I feature public repositories above so visitors can actually inspect the code. For private projects, I'm happy to discuss my role, architecture, and technical decisions.
+
+## Technologies I work with
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**AI & data**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Applications & infrastructure**  
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E56CF&center=true&vCenter=true&multiline=false&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Deep+Learning+%7C+PyTorch+%7C+Scikit-learn;Computer+Engineer+%7C+AI+Enthusiast;Always+building%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-nizar = {
-    "name"       : "Nizar Y. Alqerem",
-    "role"       : "ML / AI Engineer & Computer Engineer",
-    "focus"      : ["Deep Learning", "Computer Vision", "NLP", "API Development"],
-    "stack"      : ["Python", "PyTorch", "FastAPI", "Scikit-learn", "LightGBM"],
-    "currently"  : "Building AI-powered systems and classification models",
-    "ask_me_about": ["CNNs", "model deployment", "academic risk prediction"],
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge&logo=lightgbm&logoColor=white)
-![PyCaret](https://img.shields.io/badge/PyCaret-1A1A2E?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Backend & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nezarYousef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezarYousef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nezarYousef&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤖 [AI Project](https://github.com/nezarYousef/aiProject1) | Machine learning classification experiments | Python |
-| ✅ [Task APP](https://github.com/nezarYousef/Task-APP) | Full-stack task management web app | JavaScript |
-| 📓 [Open Notebook](https://github.com/nezarYousef/open-notebook) | Open-source NotebookLM alternative | TypeScript |
-| 🌐 [Personal Landing Page](https://github.com/nezarYousef/personal-landing-page) | Personal portfolio site | HTML/CSS |
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezarYousef)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizar-alqerem-33829a3a1/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nezar.yousef.3950)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nizaryousef01@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+  <i>Good software solves a real problem — and makes the solution understandable, reliable, and useful.</i>
 </div>
